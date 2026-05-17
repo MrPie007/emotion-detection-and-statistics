@@ -29,11 +29,11 @@ Supervised by: **Dr. Mohamed Fathy** | May 2026
 
 ### Dashboard + Emotion Statistics
 
-![Dashboard Overview](screenshots/emotionstats.png)
+![Dashboard Overview](Screenshots/emotionstats.png)
 
 ### Time Trends
 
-![Dashboard Overview](screenshots/timetrendStats.png)
+![Dashboard Overview](Screenshots/timetrendStats.png)
 
 ##  System Architecture
 
