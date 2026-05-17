@@ -25,6 +25,16 @@ Supervised by: **Dr. Mohamed Fathy** | May 2026
 
 ---
 
+## Screenshots
+
+### Dashboard + Emotion Statistics
+
+![Dashboard Overview](screenshots/emotionstats.png)
+
+### Time Trends
+
+![Dashboard Overview](screenshots/timetrendStats.png)
+
 ##  System Architecture
 
 The system is composed of four core modules:
